@@ -4,6 +4,7 @@ My personal page.
 ## JavaScript
 - es5-shim https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers
 - React.createClass https://facebook.github.io/react/docs/reusable-components.html
+- WebStorm技巧 https://github.com/jareguo/web-storm-tips
 
 ## Fireball
 - Chinese Doc http://docs-zh.fireball-x.com/
