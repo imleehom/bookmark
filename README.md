@@ -1,9 +1,11 @@
 # Bookmark
-My personal page.
+My personal page.  
+[(Edit This Page)](https://github.com/jareguo/bookmark/edit/master/README.md)
 
 ## JavaScript
 - es5-shim https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers
 - React.createClass https://facebook.github.io/react/docs/reusable-components.html
+- [Improving V8's performance using the serializer/deserializer](http://www.hashseed.net/2015/03/improving-v8s-performance-using.html)
 - WebStorm技巧 https://github.com/jareguo/web-storm-tips
 
 ## Fireball
