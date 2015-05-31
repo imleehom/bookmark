@@ -17,3 +17,6 @@ My personal page.
 - Triangulation:
     - http://polyk.ivank.net/?p=demos&d=triangulate  
     - https://github.com/mattdesl/shape2d-triangulate
+
+## GitHub
+- Searching issues: https://help.github.com/articles/searching-issues/
