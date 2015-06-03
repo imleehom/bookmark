@@ -7,6 +7,7 @@ My personal page.
 - React.createClass https://facebook.github.io/react/docs/reusable-components.html
 - [Improving V8's performance using the serializer/deserializer](http://www.hashseed.net/2015/03/improving-v8s-performance-using.html)
 - WebStorm技巧 https://github.com/jareguo/web-storm-tips
+- [JavaScript 的诞生与死亡](http://v.youku.com/v_show/id_XODAzOTY1MTM2.html?from=s1.8-1-1.2)
 
 ## Fireball
 - Chinese Doc http://docs-zh.fireball-x.com/
