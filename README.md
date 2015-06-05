@@ -21,3 +21,4 @@ My personal page.
 
 ## GitHub
 - Searching issues: https://help.github.com/articles/searching-issues/
+- GitHub秘籍: https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
