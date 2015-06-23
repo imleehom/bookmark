@@ -23,3 +23,7 @@ My personal page.
 ## GitHub
 - Searching issues: https://help.github.com/articles/searching-issues/
 - GitHub秘籍: https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
+
+## Mac
+- Terminal Cheatsheet for Mac: https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
+- [10 Coolest Keyboard Shortcuts You Never Knew About](http://www.maclife.com/article/features/10_coolest_keyboard_shortcuts_you_never_knew_about)
