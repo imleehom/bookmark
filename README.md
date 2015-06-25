@@ -10,6 +10,7 @@ My personal page.
 - [JavaScript 的诞生与死亡](http://v.youku.com/v_show/id_XODAzOTY1MTM2.html?from=s1.8-1-1.2)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com)
 - vinyl https://github.com/wearefractal/vinyl
+- async https://github.com/caolan/async
 
 ## Fireball
 - Chinese Doc http://docs-zh.fireball-x.com/
