@@ -19,6 +19,7 @@ My personal page.
 - Chinese Doc http://docs-zh.fireball-x.com/
 - Chinese API http://docs-zh.fireball-x.com/api/
 - 属性参数 http://docs-zh.fireball-x.com/manual/scripting/attributes/
+- Ipc Benchmark https://github.com/fireball-x/editor-framework/issues/28
 
 ## Algorithm
 - Triangulation:
