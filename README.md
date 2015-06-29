@@ -11,6 +11,7 @@ My personal page.
 - [ECMAScript 6入门](http://es6.ruanyifeng.com)
 - vinyl https://github.com/wearefractal/vinyl
 - async https://github.com/caolan/async
+- chai http://chaijs.com/api/bdd/
 
 ## Fireball
 - Chinese Doc http://docs-zh.fireball-x.com/
