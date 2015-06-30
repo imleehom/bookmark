@@ -12,8 +12,7 @@ My personal page.
 - libs
     - vinyl https://github.com/wearefractal/vinyl
     - async https://github.com/caolan/async
-    - chai http://chaijs.com/api/bdd/
-    - Mocha http://mochajs.org/#usage
+    - [chai](http://chaijs.com/api/bdd) [Mocha](http://mochajs.org/#usage) [Sinon](http://sinonjs.org/docs)
 
 ## Fireball
 - Chinese Doc http://docs-zh.fireball-x.com/
