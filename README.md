@@ -12,14 +12,14 @@ My personal page.
 - libs
     - vinyl https://github.com/wearefractal/vinyl
     - async https://github.com/caolan/async
-    - [chai](http://chaijs.com/api/bdd) [Mocha](http://mochajs.org/#usage) [Sinon](http://sinonjs.org/docs)
+    - [Chai](http://chaijs.com/api/bdd) | [Mocha](http://mochajs.org/#usage) | [Sinon](http://sinonjs.org/docs)
 
 ## Fireball
 - Chinese Doc http://docs-zh.fireball-x.com/
 - Chinese API http://docs-zh.fireball-x.com/api/
 - 属性参数 http://docs-zh.fireball-x.com/manual/scripting/attributes/
 - Ipc Benchmark https://github.com/fireball-x/editor-framework/issues/28
-- Electron [Doc](https://github.com/atom/electron/tree/master/docs) [RemoteBuffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
+- Electron [Doc](https://github.com/atom/electron/tree/master/docs) | [Remote Buffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
 
 ## King
 - [Repo](https://gitcafe.com/Firebox-Duomax/King) 
