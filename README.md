@@ -19,7 +19,7 @@ My personal page.
 - Chinese API http://docs-zh.fireball-x.com/api/
 - 属性参数 http://docs-zh.fireball-x.com/manual/scripting/attributes/
 - Ipc Benchmark https://github.com/fireball-x/editor-framework/issues/28
-- Electron Doc https://github.com/atom/electron/tree/master/docs
+- Electron [Doc](https://github.com/atom/electron/tree/master/docs) [RemoteBuffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
 
 ## King
 - [Repo](https://gitcafe.com/Firebox-Duomax/King) 
