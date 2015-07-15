@@ -28,6 +28,7 @@ My personal page.
 - Triangulation:
     - http://polyk.ivank.net/?p=demos&d=triangulate  
     - https://github.com/mattdesl/shape2d-triangulate
+- [Scroll Back - 2D 捲軸遊戲的攝影機理論與實務](https://igdshare.org/content/gdc2015-2d-scrolling-itay-keren)
 
 ## GitHub
 - Searching issues: https://help.github.com/articles/searching-issues/
