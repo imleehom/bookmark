@@ -31,9 +31,13 @@ My personal page.
     - https://github.com/mattdesl/shape2d-triangulate
 - [Scroll Back - 2D 捲軸遊戲的攝影機理論與實務](https://igdshare.org/content/gdc2015-2d-scrolling-itay-keren)
 
-## GitHub
-- Searching issues: https://help.github.com/articles/searching-issues/
-- GitHub秘籍: https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
+## GitHub/Git
+- [Searching issues](https://help.github.com/articles/searching-issues/)
+- [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+- [Git Magic中文版，全面，风趣](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
+- [Git简明指南中文版，PPT形式的引导](http://rogerdudler.github.io/git-guide/index.zh.html)
+- [Git Community Book中文版，这本书汇聚了Git社区的很多精华](http://gitbook.liuhui998.com/index.html)
+- [Using pull requests，关于 pull request 的官方教程](https://help.github.com/articles/using-pull-requests/)
 
 ## Mac
 - Terminal Cheatsheet for Mac: https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
