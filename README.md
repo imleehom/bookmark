@@ -31,7 +31,7 @@ My personal page.
     - https://github.com/mattdesl/shape2d-triangulate
 - [Scroll Back - 2D 捲軸遊戲的攝影機理論與實務](https://igdshare.org/content/gdc2015-2d-scrolling-itay-keren)
 
-## GitHub|Git
+## GitHub | Git
 - [Searching issues](https://help.github.com/articles/searching-issues/)
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [Git Magic中文版，全面，风趣](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/index.html)
