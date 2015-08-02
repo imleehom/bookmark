@@ -42,3 +42,7 @@ My personal page.
 ## Mac
 - Terminal Cheatsheet for Mac: https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
 - [10 Coolest Keyboard Shortcuts You Never Knew About](http://www.maclife.com/article/features/10_coolest_keyboard_shortcuts_you_never_knew_about)
+
+## Misc
+- [Moving Fast With High Code Quality](http://engineering.quora.com/Moving-Fast-With-High-Code-Quality) ([Quora是如何维持高质量代码的](http://www.jointforce.com/jfperiodical/article/942))
+
