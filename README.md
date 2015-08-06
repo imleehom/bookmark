@@ -10,7 +10,7 @@ My personal page.
 - [JavaScript 的诞生与死亡](http://v.youku.com/v_show/id_XODAzOTY1MTM2.html?from=s1.8-1-1.2)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com) | [深入掌握 ECMAScript 6 异步编程](http://www.ruanyifeng.com/blog/2015/04/generator.html)
 - libs
-    - [vinyl](https://github.com/wearefractal/vinyl)
+    - [vinyl](https://github.com/wearefractal/vinyl) | [EventStream](https://github.com/dominictarr/event-stream)
     - [async](https://github.com/caolan/async)
     - [Chai](http://chaijs.com/api/bdd) | [Mocha](http://mochajs.org/#usage) | [Sinon](http://sinonjs.org/docs)
 - [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
