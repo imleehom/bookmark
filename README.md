@@ -16,8 +16,9 @@ My personal page.
 - [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
 
 ## Fireball
-- Chinese Doc http://docs-zh.fireball-x.com/
-- Chinese API http://docs-zh.fireball-x.com/api/
+- Doc [ZH](http://docs-zh.fireball-x.com/) | [EN](http://docs.fireball-x.com/)
+- API [ZH](http://docs-zh.fireball-x.com/api/) | [EN](http://docs.fireball-x.com/api/)
+- Duang Sheep https://github.com/fireball-x/game-duang-sheep
 - 属性参数 http://docs-zh.fireball-x.com/manual/scripting/attributes/
 - Ipc Benchmark https://github.com/fireball-x/editor-framework/issues/28
 - Electron [Doc](https://github.com/atom/electron/tree/master/docs) | [BrowserWindow] (https://github.com/atom/electron/blob/master/docs/api/browser-window.md) | [Remote Buffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
