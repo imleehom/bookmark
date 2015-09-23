@@ -16,7 +16,7 @@ My personal page.
 - [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
 - 字典的Key是否能用保留字？ https://github.com/airbnb/javascript/issues/61
 - 带 JIT 的引擎什么时候用 "use strict" ?  https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments
-- Airbnb JavaScript Style Guide https://github.com/airbnb/javascript
+- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ([ES5](https://github.com/airbnb/javascript/tree/master/es5))
 
 ## Fireball
 - Doc [ZH](http://docs-zh.fireball-x.com/) | [EN](http://docs.fireball-x.com/)
