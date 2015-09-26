@@ -36,6 +36,9 @@ My personal page.
     - https://github.com/mattdesl/shape2d-triangulate
 - [Scroll Back - 2D 捲軸遊戲的攝影機理論與實務](https://igdshare.org/content/gdc2015-2d-scrolling-itay-keren)
 
+## Unity
+- [YAML fileID hash function](http://forum.unity3d.com/threads/yaml-fileid-hash-function-for-dll-scripts.252075/#post-1695479)
+
 ## GitHub | Git
 - [Searching issues](https://help.github.com/articles/searching-issues/)
 - [GitHub秘籍](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
