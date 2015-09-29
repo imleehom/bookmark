@@ -1,5 +1,4 @@
 # Bookmark
-My personal page.  
 [(Edit This Page)](https://github.com/jareguo/bookmark/edit/master/README.md)
 
 ## JavaScript
