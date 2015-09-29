@@ -4,7 +4,7 @@ My personal page.
 
 ## JavaScript
 - [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-- es5-shim https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers
+- [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections)
 - React.createClass https://facebook.github.io/react/docs/reusable-components.html
 - [Improving V8's performance using the serializer/deserializer](http://www.hashseed.net/2015/03/improving-v8s-performance-using.html)
 - WebStorm技巧 https://github.com/jareguo/web-storm-tips
