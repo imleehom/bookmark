@@ -4,7 +4,6 @@ My personal page.
 
 ## JavaScript
 - [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-- [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections)
 - React.createClass https://facebook.github.io/react/docs/reusable-components.html
 - [Improving V8's performance using the serializer/deserializer](http://www.hashseed.net/2015/03/improving-v8s-performance-using.html)
 - WebStorm技巧 https://github.com/jareguo/web-storm-tips
@@ -14,6 +13,7 @@ My personal page.
     - [vinyl](https://github.com/wearefractal/vinyl) | [EventStream](https://github.com/dominictarr/event-stream)
     - [async](https://github.com/caolan/async)
     - [Chai](http://chaijs.com/api/bdd) | [Mocha](http://mochajs.org/#usage) | [Sinon](http://sinonjs.org/docs)
+    - [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections)
 - [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
 - 字典的Key是否能用保留字？ https://github.com/airbnb/javascript/issues/61
 - 带 JIT 的引擎什么时候用 "use strict" ?  https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments
