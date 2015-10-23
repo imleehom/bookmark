@@ -19,7 +19,8 @@
 - 带 JIT 的引擎什么时候用 "use strict" ?  https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ([ES5](https://github.com/airbnb/javascript/tree/master/es5))
 - [为毛 TypeScript 的继承那么奇怪](http://blog.brillskills.com/2013/09/javascript-subclassing-using-object-create/)
-- [15个你不得不知道的Chorme dev tools的小技巧]http://www.w3cplus.com/tools/15-must-know-chrome-devtools-tips-tricks.html
+- [15个你不得不知道的Chorme dev tools的小技巧](http://www.w3cplus.com/tools/15-must-know-chrome-devtools-tips-tricks.html)
+- http://vanilla-js.com/
 
 ## Fireball
 - Doc [ZH](http://docs-zh.fireball-x.com/) | [EN](http://docs.fireball-x.com/)
