@@ -14,13 +14,16 @@
     - [async](https://github.com/caolan/async)
     - [Chai](http://chaijs.com/api/bdd) | [Mocha](http://mochajs.org/#usage) | [Sinon](http://sinonjs.org/docs)
     - [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections)
-- [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
 - 字典的Key是否能用保留字？ https://github.com/airbnb/javascript/issues/61
 - 带 JIT 的引擎什么时候用 "use strict" ?  https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ([ES5](https://github.com/airbnb/javascript/tree/master/es5))
 - [为毛 TypeScript 的继承那么奇怪](http://blog.brillskills.com/2013/09/javascript-subclassing-using-object-create/)
 - [15个你不得不知道的Chorme dev tools的小技巧](http://www.w3cplus.com/tools/15-must-know-chrome-devtools-tips-tricks.html)
 - http://vanilla-js.com/
+
+### HTML
+- [CSS 布局入门](http://zh.learnlayout.com/)
+- [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
 
 ## Fireball
 - Doc [ZH](http://docs-zh.fireball-x.com/) | [EN](http://docs.fireball-x.com/)
