@@ -15,6 +15,7 @@
     - [Chai](http://chaijs.com/api/bdd) | [Mocha](http://mochajs.org/#usage) | [Sinon](http://sinonjs.org/docs)
     - [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections)
 - 字典的Key是否能用保留字？ https://github.com/airbnb/javascript/issues/61
+- 字符串用单引号还是双引号？ https://www.zhihu.com/question/21168673/answer/79885241
 - 带 JIT 的引擎什么时候用 "use strict" ?  https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ([ES5](https://github.com/airbnb/javascript/tree/master/es5))
 - [为毛 TypeScript 的继承那么奇怪](http://blog.brillskills.com/2013/09/javascript-subclassing-using-object-create/)
