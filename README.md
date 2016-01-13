@@ -28,7 +28,7 @@
 
 ## Fireball
 - Doc [ZH](http://docs-zh.fireball-x.com/) | [EN](http://docs.fireball-x.com/)
-- API [ZH](http://docs-zh.fireball-x.com/api/) | [EN](http://docs.fireball-x.com/api/)
+- API [ZH](http://fireball-x.com/api/) | [EN](http://docs.fireball-x.com/api/)
 - Duang Sheep https://github.com/fireball-x/game-duang-sheep
 - 属性参数 http://docs-zh.fireball-x.com/manual/scripting/attributes/
 - Ipc Benchmark https://github.com/fireball-x/editor-framework/issues/28
