@@ -75,3 +75,4 @@
 - [查API (http://devdocs.io/)](http://devdocs.io/)
 - NES Graphics [Part 1](http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/) [Part 2](http://www.dustmop.io/blog/2015/06/08/nes-graphics-part-2/) [Part 3](http://www.dustmop.io/blog/2015/12/18/nes-graphics-part-3/)
 - [UML Quick Reference](http://www.holub.com/goodies/uml/)
+- [手机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
