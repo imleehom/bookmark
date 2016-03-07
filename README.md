@@ -22,6 +22,7 @@
 - [15个你不得不知道的Chorme dev tools的小技巧](http://www.w3cplus.com/tools/15-must-know-chrome-devtools-tips-tricks.html)
 - http://vanilla-js.com/
 - [The cost of transpiling es2015 in 2016](https://github.com/paulirish/The-cost-of-transpiling-es2015-in-2016)
+- [JavaScript escapes](https://mothereff.in/js-escapes)
 
 ### HTML
 - [CSS 布局入门](http://zh.learnlayout.com/) | [网页设计Div+CSS布局入门](http://keleyi.com/a/bjac/6b6qdgva.htm)
