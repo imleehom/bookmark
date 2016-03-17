@@ -45,6 +45,7 @@
 - Triangulation:
     - http://polyk.ivank.net/?p=demos&d=triangulate  
     - https://github.com/mattdesl/shape2d-triangulate
+    - https://github.com/mapbox/earcut
 - [Scroll Back - 2D 捲軸遊戲的攝影機理論與實務](https://igdshare.org/content/gdc2015-2d-scrolling-itay-keren)
 
 ## Unity
