@@ -31,6 +31,7 @@
 ### WebGL
 - [How to write portable WebGL](http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/) 
 - [HiWebGL - 最好的HTML5 WEBGL中文资讯站](http://www.hiwebgl.com/)
+- [测试本机是否支持 WebGL](https://get.webgl.org/)
 
 ## Fireball
 - Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://docs.fireball-x.com/)
