@@ -37,6 +37,7 @@
 ## Fireball
 - Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://docs.fireball-x.com/)
 - API [ZH](http://www.cocos.com/docs/creator/api) | [EN](http://docs.fireball-x.com/api/)
+- [Road Map](http://forum.cocos.com/t/roadmap-2016-4-26/35537)
 - 属性参数 http://docs-zh.fireball-x.com/manual/scripting/attributes/
 - Ipc Benchmark https://github.com/fireball-x/editor-framework/issues/28
 - Electron [Doc](https://github.com/atom/electron/tree/master/docs) | [BrowserWindow] (https://github.com/atom/electron/blob/master/docs/api/browser-window.md) | [Remote Buffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
