@@ -1,6 +1,14 @@
 # Bookmark
 [(Edit This Page)](https://github.com/jareguo/bookmark/edit/master/README.md)
 
+## Fireball
+- Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://docs.fireball-x.com/)
+- API [ZH](http://www.cocos.com/docs/creator/api) | [EN](http://docs.fireball-x.com/api/)
+- [Road Map](http://forum.cocos.com/t/roadmap-2016-4-26/35537)
+- [立项追踪](https://docs.google.com/spreadsheets/d/1pbGOVIsK1htPDadZAG8-_BEEXOL1-QopeP6RowbTXng/edit#gid=0)
+- Electron [Doc](https://github.com/atom/electron/tree/master/docs) | [BrowserWindow] (https://github.com/atom/electron/blob/master/docs/api/browser-window.md) | [Remote Buffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
+- [QICI](http://docs.zuoyouxi.com/manual/) | [BuildBox](http://go.buildbox.com/)
+
 ## JavaScript
 - [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - React.createClass https://facebook.github.io/react/docs/reusable-components.html
@@ -34,15 +42,11 @@
 - [HiWebGL - 最好的HTML5 WEBGL中文资讯站](http://www.hiwebgl.com/)
 - [测试本机是否支持 WebGL](https://get.webgl.org/)
 
-## Fireball
-- Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://docs.fireball-x.com/)
-- API [ZH](http://www.cocos.com/docs/creator/api) | [EN](http://docs.fireball-x.com/api/)
-- [Road Map](http://forum.cocos.com/t/roadmap-2016-4-26/35537)
-- 属性参数 http://docs-zh.fireball-x.com/manual/scripting/attributes/
-- Ipc Benchmark https://github.com/fireball-x/editor-framework/issues/28
-- Electron [Doc](https://github.com/atom/electron/tree/master/docs) | [BrowserWindow] (https://github.com/atom/electron/blob/master/docs/api/browser-window.md) | [Remote Buffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
-- [QICI](http://docs.zuoyouxi.com/manual/) | [BuildBox](http://go.buildbox.com/)
-- [真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device) | [JavaScript Remote Debugging By FireFox](http://www.cocos2d-x.org/wiki/Javascript_Remote_Debugging)
+### 远程调试
+- [真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
+- [JavaScript Remote Debugging By FireFox](http://www.cocos2d-x.org/wiki/Javascript_Remote_Debugging)
+- [手机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
+- [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 
 ## Algorithm
 - Triangulation:
@@ -81,5 +85,4 @@
 - [查API (http://devdocs.io/)](http://devdocs.io/)
 - NES Graphics [Part 1](http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/) [Part 2](http://www.dustmop.io/blog/2015/06/08/nes-graphics-part-2/) [Part 3](http://www.dustmop.io/blog/2015/12/18/nes-graphics-part-3/)
 - [UML Quick Reference](http://www.holub.com/goodies/uml/)
-- [手机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
-- [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+
