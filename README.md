@@ -54,6 +54,7 @@
     - https://github.com/mattdesl/shape2d-triangulate
     - https://github.com/mapbox/earcut
 - [Scroll Back - 2D 捲軸遊戲的攝影機理論與實務](https://igdshare.org/content/gdc2015-2d-scrolling-itay-keren)
+- [在线寻路算法演示](http://qiao.github.io/PathFinding.js/visual/)
 
 ## Unity
 - [YAML fileID hash function](http://forum.unity3d.com/threads/yaml-fileid-hash-function-for-dll-scripts.252075/#post-1695479)
