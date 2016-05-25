@@ -8,6 +8,7 @@
 - [立项追踪](https://docs.google.com/spreadsheets/d/1pbGOVIsK1htPDadZAG8-_BEEXOL1-QopeP6RowbTXng/edit#gid=0)
 - Electron [Doc](https://github.com/atom/electron/tree/master/docs) | [BrowserWindow] (https://github.com/atom/electron/blob/master/docs/api/browser-window.md) | [Remote Buffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
 - [QICI](http://docs.zuoyouxi.com/manual/) | [BuildBox](http://go.buildbox.com/)
+- 为什么 meta 不能放到一起：http://forum.cocos.com/t/topic/36538
 
 ## JavaScript
 - [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
