@@ -35,6 +35,7 @@
 
 ### HTML
 - [CSS 布局入门](http://zh.learnlayout.com/) | [网页设计Div+CSS布局入门](http://keleyi.com/a/bjac/6b6qdgva.htm)
+- [HOW TO CENTER IN CSS](http://howtocenterincss.com/)
 - [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
 - [HTML5 <audio> and Audio() Support Tester](http://www.jplayer.org/HTML5.Audio.Support/)
 
