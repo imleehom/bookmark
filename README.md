@@ -5,10 +5,10 @@
 - Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://docs.fireball-x.com/)
 - API [ZH](http://www.cocos.com/docs/creator/api) | [EN](http://docs.fireball-x.com/api/)
 - [Road Map](http://forum.cocos.com/t/roadmap-2016-4-26/35537)
-- [立项追踪](https://docs.google.com/spreadsheets/d/1pbGOVIsK1htPDadZAG8-_BEEXOL1-QopeP6RowbTXng/edit#gid=0)
-- Electron [Doc](https://github.com/atom/electron/tree/master/docs) | [BrowserWindow] (https://github.com/atom/electron/blob/master/docs/api/browser-window.md) | [Remote Buffer](https://github.com/atom/electron/blob/master/docs/api/remote.md#remote-buffer)
+- [立项追踪](https://docs.google.com/spreadsheets/d/1pbGOVIsK1htPDadZAG8-_BEEXOL1-QopeP6RowbTXng/edit#gid=0) | [优化统计](https://docs.google.com/spreadsheets/d/1mPwrG0WvbDqcI76IQ9isxkrvPV9ThVxHzX2GxM5IOxk/edit?pli=1#gid=253008675)
+- [Electron Doc](https://github.com/atom/electron/tree/master/docs)
 - [QICI](http://docs.zuoyouxi.com/manual/) | [BuildBox](http://go.buildbox.com/)
-- 为什么 meta 不能放到一起：http://forum.cocos.com/t/topic/36538
+- [为什么 meta 不能放到一起](http://forum.cocos.com/t/topic/36538)
 
 ## JavaScript
 - [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
