@@ -44,7 +44,6 @@
 - [HiWebGL - 最好的HTML5 WEBGL中文资讯站](http://www.hiwebgl.com/)
 - [测试本机是否支持 WebGL](https://get.webgl.org/)
 - [调试插件 WebGL Insight](https://github.com/3Dparallax/insight)
-- [The Art of Closing (PR)](https://blog.jessfraz.com/post/the-art-of-closing/)
 
 ### 远程调试
 - [真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
@@ -73,6 +72,7 @@
 - [Git简明指南中文版，PPT形式的引导](http://rogerdudler.github.io/git-guide/index.zh.html)
 - [Git Community Book中文版，这本书汇聚了Git社区的很多精华](http://gitbook.liuhui998.com/index.html)
 - [Using pull requests，关于 pull request 的官方教程](https://help.github.com/articles/using-pull-requests/)
+- [The Art of Closing (PR)](https://blog.jessfraz.com/post/the-art-of-closing/)
 
 ## Mac
 - Terminal Cheatsheet for Mac: https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
