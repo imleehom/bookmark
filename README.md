@@ -44,6 +44,7 @@
 - [HiWebGL - 最好的HTML5 WEBGL中文资讯站](http://www.hiwebgl.com/)
 - [测试本机是否支持 WebGL](https://get.webgl.org/)
 - [调试插件 WebGL Insight](https://github.com/3Dparallax/insight)
+- [The Art of Closing (PR)](https://blog.jessfraz.com/post/the-art-of-closing/)
 
 ### 远程调试
 - [真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
