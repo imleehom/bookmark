@@ -77,6 +77,7 @@
 - Terminal Cheatsheet for Mac: https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
 - [10 Coolest Keyboard Shortcuts You Never Knew About](http://www.maclife.com/article/features/10_coolest_keyboard_shortcuts_you_never_knew_about)
 - [Mac 笔记](https://gist.github.com/jareguo/7bce627a82a8fba51b48)
+- Shell 工具：oh-my-zsh, [percol](https://github.com/mooz/percol) [fasd](https://github.com/clvv/fasd)
 
 ## Misc
 - [Moving Fast With High Code Quality](http://engineering.quora.com/Moving-Fast-With-High-Code-Quality) ([Quora是如何维持高质量代码的](http://www.jointforce.com/jfperiodical/article/942))
