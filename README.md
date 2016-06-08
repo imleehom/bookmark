@@ -92,3 +92,6 @@
 - NES Graphics [Part 1](http://www.dustmop.io/blog/2015/04/28/nes-graphics-part-1/) [Part 2](http://www.dustmop.io/blog/2015/06/08/nes-graphics-part-2/) [Part 3](http://www.dustmop.io/blog/2015/12/18/nes-graphics-part-3/)
 - [UML Quick Reference](http://www.holub.com/goodies/uml/)
 - [AR 的终极形态](https://vimeo.com/166807261?ref=fb-share)
+- The Mali GPU: An Abstract Machine（讲解移动 GPU 架构） [Part 1](https://community.arm.com/groups/arm-mali-graphics/blog/2014/02/03/the-mali-gpu-an-abstract-machine-part-1)
+ [Part 2](https://community.arm.com/groups/arm-mali-graphics/blog/2014/02/20/the-mali-gpu-an-abstract-machine-part-2)
+ [Part 3](https://community.arm.com/groups/arm-mali-graphics/blog/2014/03/12/the-mali-gpu-an-abstract-machine-part-3--the-shader-core)
