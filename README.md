@@ -46,9 +46,8 @@
 - [调试插件 WebGL Insight](https://github.com/3Dparallax/insight)
 
 ### 远程调试
-- [真机远程调试方法汇总](https://github.com/jieyou/remote_inspect_web_on_real_device)
+- [真机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
 - [JavaScript Remote Debugging By FireFox](http://www.cocos2d-x.org/wiki/Javascript_Remote_Debugging)
-- [手机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
 - [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 
 ## Algorithm
