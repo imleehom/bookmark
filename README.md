@@ -20,7 +20,7 @@
 - [ECMAScript 6入门](http://es6.ruanyifeng.com) | [深入掌握 ECMAScript 6 异步编程](http://www.ruanyifeng.com/blog/2015/04/generator.html)
 - libs
     - [vinyl](https://github.com/wearefractal/vinyl) | [EventStream](https://github.com/dominictarr/event-stream)
-    - [async](https://github.com/caolan/async) ([collections](https://github.com/caolan/async#collections) | [control flow](https://github.com/caolan/async#control-flow))
+    - [Async.js](https://github.com/caolan/async) ([collections](https://github.com/caolan/async#collections) | [control flow](https://github.com/caolan/async#control-flow))
     - [Chai](http://chaijs.com/api/bdd) | [Mocha](http://mochajs.org/#usage) | [Sinon](http://sinonjs.org/docs)
     - [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections)
 - 字典的Key是否能用保留字？ https://github.com/airbnb/javascript/issues/61
