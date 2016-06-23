@@ -57,6 +57,7 @@
     - https://github.com/mapbox/earcut
 - [Scroll Back - 2D 捲軸遊戲的攝影機理論與實務](https://igdshare.org/content/gdc2015-2d-scrolling-itay-keren)
 - [在线寻路算法演示](http://qiao.github.io/PathFinding.js/visual/)
+- [方向摇杆滤波](http://www.gamasutra.com/blogs/RyanJuckett/20160329/268937/Interpreting_Analog_Sticks_in_INVERSUS.php)
 
 ## Unity
 - [YAML fileID hash function](http://forum.unity3d.com/threads/yaml-fileid-hash-function-for-dll-scripts.252075/#post-1695479)
