@@ -9,6 +9,7 @@
 - [Electron Doc](https://github.com/atom/electron/tree/master/docs)
 - [QICI](http://docs.zuoyouxi.com/manual/) | [BuildBox](http://go.buildbox.com/)
 - [为什么 meta 不能放到一起](http://forum.cocos.com/t/topic/36538)
+- [浏览器调试脚本](https://gist.github.com/jareguo/7f20001f099759be62dac7e6b76aec07)
 
 ## JavaScript
 - [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
