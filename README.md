@@ -46,6 +46,7 @@
 - [HiWebGL - 最好的HTML5 WEBGL中文资讯站](http://www.hiwebgl.com/)
 - [测试本机是否支持 WebGL](https://get.webgl.org/)
 - [调试插件 WebGL Insight](https://github.com/3Dparallax/insight)
+- [WebGL 入门](https://msdn.microsoft.com/zh-cn/library/dn385807(v=vs.85).aspx)
 
 ### 远程调试
 - [真机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
