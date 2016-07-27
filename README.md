@@ -48,10 +48,11 @@
 - [调试插件 WebGL Insight](https://github.com/3Dparallax/insight)
 - [WebGL 入门](https://msdn.microsoft.com/zh-cn/library/dn385807(v=vs.85).aspx)
 
-### 远程调试
+### 真机适配
 - [真机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
 - [JavaScript Remote Debugging By FireFox](http://www.cocos2d-x.org/wiki/Javascript_Remote_Debugging)
 - [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+- [收集移动端上的各种坑](https://github.com/RubyLouvre/mobileHack/network)
 
 ## Algorithm
 - Triangulation:
