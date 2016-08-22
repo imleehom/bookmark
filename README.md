@@ -47,6 +47,7 @@
 - [测试本机是否支持 WebGL](https://get.webgl.org/)
 - [调试插件 WebGL Insight](https://github.com/3Dparallax/insight)
 - [WebGL 入门](https://msdn.microsoft.com/zh-cn/library/dn385807(v=vs.85).aspx)
+- [GPU 实现的粒子系统](http://nullprogram.com/blog/2014/06/29/)
 
 ### 真机适配
 - [真机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
