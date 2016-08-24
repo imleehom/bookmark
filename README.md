@@ -81,6 +81,7 @@
 - [Git Community Book中文版，这本书汇聚了Git社区的很多精华](http://gitbook.liuhui998.com/index.html)
 - [Using pull requests，关于 pull request 的官方教程](https://help.github.com/articles/using-pull-requests/)
 - [The Art of Closing (PR)](https://blog.jessfraz.com/post/the-art-of-closing/)
+- [How To Write The Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
 ## Mac
 - Terminal Cheatsheet for Mac: https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
