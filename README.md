@@ -2,7 +2,7 @@
 [(Edit This Page)](https://github.com/jareguo/bookmark/edit/master/README.md)
 
 ## Fireball
-- Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://docs.fireball-x.com/) | [动态加载](http://www.cocos.com/docs/creator/scripting/load-assets.html#--3)
+- Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://docs.fireball-x.com/) | [动态加载](http://www.cocos.com/docs/creator/scripting/load-assets.html#--3) | [-x ScriptingCore](http://cocos2d-x.org/docs/api-ref/cplusplus/v3x/dc/da6/class_scripting_core.html)
 - API [ZH](http://www.cocos.com/docs/creator/api) | [EN](http://cocos2d-x.org/docs/api-ref/)
 - [Road Map](http://forum.cocos.com/t/roadmap-2016-4-26/35537)
 - [立项追踪](https://docs.google.com/spreadsheets/d/1pbGOVIsK1htPDadZAG8-_BEEXOL1-QopeP6RowbTXng/edit#gid=0) | [优化统计](https://docs.google.com/spreadsheets/d/1mPwrG0WvbDqcI76IQ9isxkrvPV9ThVxHzX2GxM5IOxk/edit?pli=1#gid=253008675)
