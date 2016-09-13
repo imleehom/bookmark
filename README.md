@@ -105,4 +105,4 @@
 - The Mali GPU: An Abstract Machine（讲解移动 GPU 架构） [Part 1](https://community.arm.com/groups/arm-mali-graphics/blog/2014/02/03/the-mali-gpu-an-abstract-machine-part-1)
  [Part 2](https://community.arm.com/groups/arm-mali-graphics/blog/2014/02/20/the-mali-gpu-an-abstract-machine-part-2)
  [Part 3](https://community.arm.com/groups/arm-mali-graphics/blog/2014/03/12/the-mali-gpu-an-abstract-machine-part-3--the-shader-core)
-[GitHub HTML 在线预览](http://htmlpreview.github.io/)
+- [GitHub HTML 在线预览](http://htmlpreview.github.io/)
