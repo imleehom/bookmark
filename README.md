@@ -106,3 +106,4 @@
  [Part 2](https://community.arm.com/groups/arm-mali-graphics/blog/2014/02/20/the-mali-gpu-an-abstract-machine-part-2)
  [Part 3](https://community.arm.com/groups/arm-mali-graphics/blog/2014/03/12/the-mali-gpu-an-abstract-machine-part-3--the-shader-core)
 - [GitHub HTML 在线预览](http://htmlpreview.github.io/)
+- [PNG 优化](http://zcfy.cc/article/png-optimisation-1246.html)
