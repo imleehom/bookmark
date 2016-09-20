@@ -85,7 +85,7 @@
 - [How To Write The Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
 ## Mac
-- Terminal Cheatsheet for Mac: https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
+- [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
 - [10 Coolest Keyboard Shortcuts You Never Knew About](http://www.maclife.com/article/features/10_coolest_keyboard_shortcuts_you_never_knew_about)
 - [Mac 笔记](https://gist.github.com/jareguo/7bce627a82a8fba51b48)
 - Shell 工具：oh-my-zsh, [percol](https://github.com/mooz/percol) [fasd](https://github.com/clvv/fasd)
