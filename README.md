@@ -93,7 +93,7 @@
 ## Misc
 - [Moving Fast With High Code Quality](http://engineering.quora.com/Moving-Fast-With-High-Code-Quality) ([Quora是如何维持高质量代码的](http://www.jointforce.com/jfperiodical/article/942))
 - [Top Testing Tips for Discriminating Java Developers](http://zeroturnaround.com/rebellabs/top-testing-tips-for-discriminating-java-developers/) ([写给精明Java开发者的测试技巧](http://www.importnew.com/16392.html))
-- [开源许可证之间的比较](https://cloud.githubusercontent.com/assets/1503156/10157717/17482b9a-66bf-11e5-9799-a62063d527c0.png)
+- [开源许可证之间的比较](http://img.my.csdn.net/uploads/201105/3/5321_1304429916T0S0.png) ([旧版](https://cloud.githubusercontent.com/assets/1503156/10157717/17482b9a-66bf-11e5-9799-a62063d527c0.png))
 - http://nanomsg.org/
 - [Go-style concurrency in C](http://libmill.org/)
 - [Data Locality](http://gameprogrammingpatterns.com/data-locality.html)
