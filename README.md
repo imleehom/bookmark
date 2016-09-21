@@ -6,7 +6,7 @@
 - API [ZH](http://www.cocos.com/docs/creator/api) | [EN](http://cocos2d-x.org/docs/api-ref/)
 - [Road Map](http://forum.cocos.com/t/roadmap-2016-4-26/35537)
 - [立项追踪](https://docs.google.com/spreadsheets/d/1pbGOVIsK1htPDadZAG8-_BEEXOL1-QopeP6RowbTXng/edit#gid=0) | [优化统计](https://docs.google.com/spreadsheets/d/1mPwrG0WvbDqcI76IQ9isxkrvPV9ThVxHzX2GxM5IOxk/edit?pli=1#gid=253008675)
-- [Electron Doc](https://github.com/atom/electron/tree/master/docs)
+- [Electron Doc](https://github.com/atom/electron/tree/master/docs) | [Weak Reference](http://electron.atom.io/blog/2016/09/20/electron-internals-weak-references)
 - [QICI](http://docs.zuoyouxi.com/manual/) | [BuildBox](http://go.buildbox.com/)
 - [为什么 meta 不能放到一起](http://forum.cocos.com/t/topic/36538)
 - [浏览器调试脚本](https://gist.github.com/jareguo/7f20001f099759be62dac7e6b76aec07)
