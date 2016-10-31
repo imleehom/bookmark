@@ -96,6 +96,7 @@
 - [开源许可证之间的比较](http://img.my.csdn.net/uploads/201105/3/5321_1304429916T0S0.png) ([旧版](https://cloud.githubusercontent.com/assets/1503156/10157717/17482b9a-66bf-11e5-9799-a62063d527c0.png))
 - http://nanomsg.org/
 - [Go-style concurrency in C](http://libmill.org/)
+- [在线文件格式元数据检测](http://regex.info/exif.cgi)
 - [Data Locality](http://gameprogrammingpatterns.com/data-locality.html)
 - [regexr(测试和学习正则表达式)](http://www.regexr.com/) | 正则表达式可视化 [regexper](http://regexper.com/) [regulex](https://jex.im/regulex/) [debuggex](https://www.debuggex.com/)
 - [查API (http://devdocs.io/)](http://devdocs.io/)
