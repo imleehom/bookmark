@@ -110,4 +110,5 @@
  [Part 3](https://community.arm.com/groups/arm-mali-graphics/blog/2014/03/12/the-mali-gpu-an-abstract-machine-part-3--the-shader-core)
 - [GitHub HTML 在线预览](http://htmlpreview.github.io/)
 - [PNG 优化](http://zcfy.cc/article/png-optimisation-1246.html)
-- [刷新 Chrome DNS 缓存](chrome://net-internals/#dns)
+- 刷新 Chrome DNS 缓存：chrome://net-internals/#dns
+- Chrome 远程调试：chrome://inspect/#devices
