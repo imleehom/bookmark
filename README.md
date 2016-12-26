@@ -112,3 +112,4 @@
 - [PNG 优化](http://zcfy.cc/article/png-optimisation-1246.html)
 - 刷新 Chrome DNS 缓存：chrome://net-internals/#dns
 - Chrome 远程调试：chrome://inspect/#devices
+- [Down and Dirty with Chrome Developer Tools](https://blittle.github.io/chrome-dev-tools/)
