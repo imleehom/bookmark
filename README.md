@@ -14,7 +14,6 @@
 
 ## JavaScript
 - [运算符优先级](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
-- React.createClass https://facebook.github.io/react/docs/reusable-components.html
 - [Improving V8's performance using the serializer/deserializer](http://www.hashseed.net/2015/03/improving-v8s-performance-using.html)
 - [WebStorm技巧](https://github.com/jareguo/web-storm-tips)
 - [性能测试记录](https://gist.github.com/jareguo/5b3096ab6b8eff9bade5)
