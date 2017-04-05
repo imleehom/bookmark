@@ -1,7 +1,7 @@
 # Bookmark
 [(Edit This Page)](https://github.com/jareguo/bookmark/edit/master/README.md)
 
-## Fireball
+## Creator
 - Doc [ZH](http://www.cocos.com/docs/creator/) | [EN](http://www.cocos2d-x.org/docs/editors_and_tools/creator/index.html) | [动态加载](http://www.cocos.com/docs/creator/scripting/load-assets.html#--3) | [-x ScriptingCore](http://cocos2d-x.org/docs/api-ref/cplusplus/v3x/dc/da6/class_scripting_core.html) | [-JS](http://cocos2d-x.org/docs/api-ref/js/v3x/) | [js 调用 Java](http://www.cocos.com/doc/article/index?type=cocos2d-x&url=/doc/cocos-docs-master/manual/framework/cocos2d-js/catalog/../../html5/v3/reflection/zh.md) | [模块化](http://www.cocos.com/docs/creator/scripting/modular-script.html) | [修改场景资源自动释放策略](http://www.cocos.com/docs/creator/asset-workflow/scene-managing.html#--4) | [JavaScript 标准支持](http://www.cocos.com/docs/creator/scripting/reference/javascript-support.html)
 - API [ZH](http://www.cocos.com/docs/creator/api) | [EN](http://cocos2d-x.org/docs/api-ref/)
 - [Road Map](http://forum.cocos.com/t/roadmap-2016-4-26/35537)
@@ -42,7 +42,7 @@
 - [H5动画60fps之路](http://card.weibo.com/article/h5/s#cid=1001603865643593165786&from=1053093010&wm=3333_2001&ip=120.42.91.191) 
 - [HTML5 <audio> and Audio() Support Tester](http://www.jplayer.org/HTML5.Audio.Support/)
 
-### WebGL
+### Render
 - [How to write portable WebGL](http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/) 
 - [HiWebGL - 最好的HTML5 WEBGL中文资讯站](http://www.hiwebgl.com/)
 - [测试本机是否支持 WebGL](https://get.webgl.org/)
@@ -50,6 +50,8 @@
 - [WebGL 入门](https://msdn.microsoft.com/zh-cn/library/dn385807(v=vs.85).aspx)
 - [GPU 实现的粒子系统](http://nullprogram.com/blog/2014/06/29/)
 - [Move a WebGL 1 Engine To WebGL 2](https://github.com/shrekshao/MoveWebGL1EngineToWebGL2)
+- [PNG 优化](http://zcfy.cc/article/png-optimisation-1246.html)
+- [测试浏览器支持的贴图格式](http://toji.github.io/texture-tester/)
 
 ### 真机适配
 - [真机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
@@ -108,7 +110,6 @@
  [Part 2](https://community.arm.com/groups/arm-mali-graphics/blog/2014/02/20/the-mali-gpu-an-abstract-machine-part-2)
  [Part 3](https://community.arm.com/groups/arm-mali-graphics/blog/2014/03/12/the-mali-gpu-an-abstract-machine-part-3--the-shader-core)
 - [GitHub HTML 在线预览](http://htmlpreview.github.io/)
-- [PNG 优化](http://zcfy.cc/article/png-optimisation-1246.html)
 - 刷新 Chrome DNS 缓存：chrome://net-internals/#dns
 - Chrome 远程调试：chrome://inspect/#devices
 - [Down and Dirty with Chrome Developer Tools](https://blittle.github.io/chrome-dev-tools/)
