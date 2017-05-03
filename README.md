@@ -24,7 +24,8 @@
     - [vinyl](https://github.com/wearefractal/vinyl) | [EventStream](https://github.com/dominictarr/event-stream)
     - [Async.js](http://caolan.github.io/async/docs.html)
     - [Chai](http://chaijs.com/api/bdd) | [tap](https://github.com/tapjs/node-tap) | [Mocha](http://mochajs.org/#usage) | [Sinon](http://sinonjs.org/docs)
-    - [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections)
+    - [es5-shim](https://facebook.github.io/react/docs/working-with-the-browser.html#polyfills-needed-to-support-older-browsers) | [es6-shim](https://github.com/paulmillr/es6-shim) | [ES6 Harmony Collections](https://github.com/WebReflection/es6-collections) | [core-js](https://github.com/zloirock/core-js)
+    - [Bublé](https://buble.surge.sh/guide/)
 - 字典的Key是否能用保留字？ https://github.com/airbnb/javascript/issues/61
 - 字符串用单引号还是双引号？ https://www.zhihu.com/question/21168673/answer/79885241
 - 带 JIT 的引擎什么时候用 "use strict" ?  https://github.com/petkaantonov/bluebird/wiki/Optimization-killers#3-managing-arguments
