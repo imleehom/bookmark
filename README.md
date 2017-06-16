@@ -35,6 +35,7 @@
 - http://vanilla-js.com/
 - [The cost of transpiling es2015 in 2016](https://github.com/paulirish/The-cost-of-transpiling-es2015-in-2016)
 - [JavaScript escapes](https://mothereff.in/js-escapes)
+- [WASM Explorer](http://mbebenita.github.io/WasmExplorer/)
 
 ### HTML
 - [CSS 布局入门](http://zh.learnlayout.com/) | [网页设计Div+CSS布局入门](http://keleyi.com/a/bjac/6b6qdgva.htm)
