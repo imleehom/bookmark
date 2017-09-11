@@ -20,6 +20,7 @@
 - ["Not optimized" JavaScript profiler bailout reasons](https://github.com/GoogleChrome/devtools-docs/issues/53)
 - [JavaScript 的诞生与死亡](http://v.youku.com/v_show/id_XODAzOTY1MTM2.html?from=s1.8-1-1.2)
 - [ECMAScript 6入门](http://es6.ruanyifeng.com) | [深入掌握 ECMAScript 6 异步编程](http://www.ruanyifeng.com/blog/2015/04/generator.html)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 - libs
     - [vinyl](https://github.com/wearefractal/vinyl) | [EventStream](https://github.com/dominictarr/event-stream)
     - [Async.js](http://caolan.github.io/async/docs.html)
