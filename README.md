@@ -89,6 +89,7 @@
 - [Using pull requests，关于 pull request 的官方教程](https://help.github.com/articles/using-pull-requests/)
 - [The Art of Closing (PR)](https://blog.jessfraz.com/post/the-art-of-closing/)
 - [How To Write The Perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+- [Oh shit, git!](http://ohshitgit.com/)
 
 ## Mac
 - [Terminal Cheatsheet for Mac](https://github.com/0nn0/terminal-mac-cheatsheet)
