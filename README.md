@@ -37,6 +37,7 @@
 - [The cost of transpiling es2015 in 2016](https://github.com/paulirish/The-cost-of-transpiling-es2015-in-2016)
 - [JavaScript escapes](https://mothereff.in/js-escapes)
 - [WASM Explorer](http://mbebenita.github.io/WasmExplorer/)
+- [JavaScript-Garden: 这里讲解了很多js和其他语言不一样的地方，同时指导了如何写出高质量js代码](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 ### HTML
 - [CSS 布局入门](http://zh.learnlayout.com/) | [网页设计Div+CSS布局入门](http://keleyi.com/a/bjac/6b6qdgva.htm)
