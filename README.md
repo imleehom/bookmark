@@ -33,8 +33,6 @@
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) ([ES5](https://github.com/airbnb/javascript/tree/master/es5))
 - [为毛 TypeScript 的继承那么奇怪](http://blog.brillskills.com/2013/09/javascript-subclassing-using-object-create/)
 - [15个你不得不知道的Chorme dev tools的小技巧](http://www.w3cplus.com/tools/15-must-know-chrome-devtools-tips-tricks.html)
-- http://vanilla-js.com/
-- [The cost of transpiling es2015 in 2016](https://github.com/paulirish/The-cost-of-transpiling-es2015-in-2016)
 - [JavaScript escapes](https://mothereff.in/js-escapes)
 - [WASM Explorer](http://mbebenita.github.io/WasmExplorer/)
 - [JavaScript-Garden: 这里讲解了很多js和其他语言不一样的地方，同时指导了如何写出高质量js代码](http://bonsaiden.github.io/JavaScript-Garden/zh/)
