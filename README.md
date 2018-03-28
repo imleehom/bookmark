@@ -81,7 +81,7 @@
 - [YAML fileID hash function](http://forum.unity3d.com/threads/yaml-fileid-hash-function-for-dll-scripts.252075/#post-1695479)
 - [Execution Order of Event Functions](http://docs.unity3d.com/Manual/ExecutionOrder.html)
 - [Road Map](http://unity3d.com/unity/roadmap)
-- [重新实现 ECS](http://t-machine.org/index.php/category/entity-systems/)
+- [Unite Austin 2017 - Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk)
 
 ## GitHub | Git
 - [Searching issues](https://help.github.com/articles/searching-issues/)
