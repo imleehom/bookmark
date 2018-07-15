@@ -76,6 +76,7 @@
 - [Hash Functions all the way down](http://aras-p.info/blog/2016/08/02/Hash-Functions-all-the-way-down/), [More Tests](http://aras-p.info/blog/2016/08/09/More-Hash-Function-Tests/)
 - [Fantasy map generator](https://github.com/mewo2/terrain)
 - [Improved Lerp Smoothing](https://www.gamasutra.com/blogs/ScottLembcke/20180404/316046/Improved_Lerp_Smoothing.php)
+- [Wave Function Collapse in Bad North](https://www.youtube.com/watch?v=0bcZb-SsnrA)
 
 ## Unity
 - [YAML fileID hash function](http://forum.unity3d.com/threads/yaml-fileid-hash-function-for-dll-scripts.252075/#post-1695479)
