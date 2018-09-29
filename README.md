@@ -101,6 +101,10 @@
 - [Mac 笔记](https://gist.github.com/jareguo/7bce627a82a8fba51b48)
 - Shell 工具：oh-my-zsh, [percol](https://github.com/mooz/percol) [fasd](https://github.com/clvv/fasd)
 
+## Toolset
+
+- [Effekseer](http://effekseer.github.io/en/index.html)
+
 ## Misc
 - [Moving Fast With High Code Quality](http://engineering.quora.com/Moving-Fast-With-High-Code-Quality) ([Quora是如何维持高质量代码的](http://www.jointforce.com/jfperiodical/article/942))
 - [Top Testing Tips for Discriminating Java Developers](http://zeroturnaround.com/rebellabs/top-testing-tips-for-discriminating-java-developers/) ([写给精明Java开发者的测试技巧](http://www.importnew.com/16392.html))
