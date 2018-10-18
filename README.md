@@ -58,6 +58,7 @@
 - [测试浏览器支持的贴图格式](http://toji.github.io/texture-tester/)
 - [Learn OpenGL](https://learnopengl.com/)
 - [A Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
+- [Gamma error in picture scaling](http://www.ericbrasseur.org/gamma.html)
 
 ### 真机适配
 - [真机远程调试方法汇总](https://github.com/wuchangming/remote_inspect_web_on_real_device)
